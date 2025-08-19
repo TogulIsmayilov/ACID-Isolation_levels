@@ -44,15 +44,8 @@ Bir sessiya müəyyən resurs üzərində dəyişiklik etdiyi halda, digər sess
 
 
 
-Bloklanmış sessiyaları tapmaq üçün istifadə etdiyin sorğu:
+Bloklanmış sessiyaları tapmaq üçün istifadə etdiyimiz sorğu:
 
-
-
-sql
-
-Copy
-
-Edit
 
 SELECT
 
